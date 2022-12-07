@@ -1,1 +1,24 @@
-<iframe src="https://giphy.com/embed/lP8xu5t2DLGG045H8F" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mohamed-mosilhy-a3b99a238/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@mohamedmosilhy4396">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/mohamed_mosilhe">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=mohamedmosilhy&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
