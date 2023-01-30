@@ -30,9 +30,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
