@@ -19,7 +19,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -29,19 +29,17 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+## 👋 About Me:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Web applications.
+I'm a **Senior Systems and Biomedical Engineering student** at Cairo University with a passion for **Software Engineering**. My expertise spans across **mobile and web development**, focusing on creating user-friendly and efficient applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 📱 I specialize in **Flutter development**, with a strong understanding of **Clean Architecture** and **SOLID principles**. My projects include a **Spotify-like music streaming app** and a **feature-rich Blog App**, showcasing my ability to build scalable solutions.
 
-- :zap: In my free time, I solve problems on leetCode and read tech articles.
+- 💻 I'm also proficient in **Python**, **React**, and various other technologies. My projects range from **AI-based applications** to **comprehensive management systems**, reflecting my versatility as a developer.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mosilhy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mosilhy-a3b99a238/)
+- 🚀 I’m always looking to collaborate on exciting projects and contribute to open-source initiatives. Check out my repositories to see what I've been working on!
 
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -54,7 +52,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="lua"  alt="lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
