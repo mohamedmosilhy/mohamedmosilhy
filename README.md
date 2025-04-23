@@ -31,40 +31,45 @@
 
 ## 👋 About Me:
 
-I'm a **Senior Systems and Biomedical Engineering student** at Cairo University with a passion for **Software Engineering**. My expertise spans across **mobile and web development**, focusing on creating user-friendly and efficient applications.
+I'm **Mohamed Mosilhy**, a passionate **AI Engineer & Full Stack Developer** based in Cairo. I'm currently pursuing my degree in **Systems and Biomedical Engineering** at Cairo University, where I combine engineering, software development, and AI to build innovative solutions.
 
-- 📱 I specialize in **Flutter development**, with a strong understanding of **Clean Architecture** and **SOLID principles**. My projects include a **Spotify-like music streaming app** and a **feature-rich Blog App**, showcasing my ability to build scalable solutions.
-
-- 💻 I'm also proficient in **Python**, **React**, and various other technologies. My projects range from **AI-based applications** to **comprehensive management systems**, reflecting my versatility as a developer.
-
-- 🚀 I’m always looking to collaborate on exciting projects and contribute to open-source initiatives. Check out my repositories to see what I've been working on!
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" **alt="Qt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" **alt="Sqlite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
-</div>
-
+- 👨‍💻 I build **AI-powered applications** for healthcare, security, and finance, with experience in **PyTorch**, **TensorFlow**, and **Scikit-learn**.
+- 🌐 I create **beautiful and scalable websites** using **React**, **Next.js**, **Tailwind CSS**, and **Three.js**.
+- 📱 I develop **Flutter apps** following **Clean Architecture** and **SOLID principles**, delivering seamless mobile experiences.
+- 🧠 I’ve competed in real-world AI challenges like the **Mayo Clinic STRIP AI Kaggle competition**, with advanced models like PoolFormerV3 and CCT.
+- 🎓 I'm also a **coding instructor**, teaching AI and software to young students and fostering curiosity in tech.
 
 ---
 
-### :fire: My Stats :
+## 🚀 Featured Projects:
+- 🎨 [**iPhone 15 Clone**](https://apple-website-lac.vercel.app/) – High-quality 3D animations with React, Three.js & GSAP.
+- 🧠 [**Stroke Blood Clot Classifier**](https://github.com/mohamedmosilhy/Image-Classification-of-Stroke-Blood-Clot-Origin) – Deep learning model classifying stroke types from medical images.
+- 🔐 [**Voice Authentication System**](https://github.com/mohamedmosilhy/Voiceprint-security-system) – Spectrogram-based user verification.
+- 📈 [**CKD Predictor**](https://github.com/mohamedmosilhy/kidney_disease_prediction) – ML models predicting chronic kidney disease with 100% accuracy.
+- 📰 [**NewsHub**](https://github.com/mohamedmosilhy/News-website) – News app with sorting, search, and bookmarking.
+- 🏥 [**CardioMatic Clinic**](https://github.com/mohamedmosilhy/CardioMaticClinic) – Full-stack cardiology clinic management system.
+
+---
+
+## 🧰 Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+## 📊 GitHub Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamedmosilhy&theme=dark&hide_border=true&border_radius=5.6&date_format=j%20M%5B%20Y%5D&background=050101)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmosilhy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
